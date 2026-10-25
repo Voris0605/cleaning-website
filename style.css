@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(24, 26, 58);
+}
+img{
+    display: block;
+    background-color: rgb(225, 232, 246);
+}
+a{
+    color: rgb(24, 26, 58);
+    text-decoration: none;
+}
+.box{
+    position: relative;
+    width: 1220px;
+    margin: 0px auto;
+}
+.blue{
+    color: rgb(51, 54, 238);
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 215px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: rgb(51, 54, 238);
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.btn.out{
+    background-color: white;
+    color: rgb(24, 26, 58);
+    box-shadow: 0px 6px 20px rgb(225, 228, 242);
+}
+.call-circle{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 6px 20px rgb(225, 228, 242);
+    font-size: 30px;
+    color: rgb(51, 54, 238);
+}
+.call-label{
+    position: absolute;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(100, 105, 125);
+}
+.call-num{
+    position: absolute;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(51, 54, 238);
+}
+.nav{
+    display: flex;
+    align-items: center;
+    width: 1220px;
+    height: 116px;
+    margin: 0px auto;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 218px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.logo i{
+    margin-right: 10px;
+    font-size: 26px;
+    color: rgb(51, 54, 238);
+}
+.menu{
+    display: flex;
+}
+.menu a{
+    margin-right: 34px;
+    font-size: 15px;
+}
+.cart{
+    margin-left: auto;
+    margin-right: 40px;
+    font-size: 15px;
+}
+.nav .btn{
+    width: 175px;
+    height: 56px;
+    font-size: 14px;
+}
