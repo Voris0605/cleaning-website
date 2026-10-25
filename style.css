@@ -206,3 +206,53 @@ a{
     left: 620px;
     width: 210px;
 }
+.services{
+    height: 820px;
+}
+.sv-title{
+    position: absolute;
+    top: 64px;
+    left: 0px;
+    width: 600px;
+    font-size: 42px;
+    font-weight: bold;
+}
+.sv-btn{
+    position: absolute;
+    top: 84px;
+    left: 1008px;
+    width: 212px;
+    height: 68px;
+}
+.sv-cards{
+    position: absolute;
+    top: 264px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 1220px;
+}
+.sv-card{
+    width: 384px;
+    height: 489px;
+    border: 1px solid rgb(236, 239, 248);
+    border-radius: 10px;
+    background-color: rgb(250, 251, 254);
+    text-align: center;
+}
+.sv-img{
+    width: 260px;
+    height: 200px;
+    margin: 48px auto 0px auto;
+}
+.sv-name{
+    margin-top: 36px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.sv-text{
+    width: 300px;
+    margin: 16px auto 0px auto;
+    font-size: 16px;
+    color: rgb(100, 105, 125);
+}
