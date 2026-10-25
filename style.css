@@ -145,3 +145,64 @@ a{
     top: 562px;
     left: 345px;
 }
+.how{
+    height: 880px;
+}
+.how-title{
+    position: absolute;
+    top: 94px;
+    left: 0px;
+    width: 1220px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+.how-sub{
+    position: absolute;
+    top: 184px;
+    left: 310px;
+    width: 600px;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(100, 105, 125);
+}
+.steps{
+    position: absolute;
+    top: 282px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 1220px;
+}
+.step{
+    width: 380px;
+    text-align: center;
+}
+.step-img{
+    width: 240px;
+    height: 240px;
+    margin: 0px auto;
+    border-radius: 50%;
+}
+.step-title{
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.step-text{
+    width: 340px;
+    margin: 16px auto 0px auto;
+    font-size: 16px;
+    color: rgb(100, 105, 125);
+}
+.how-btn1{
+    position: absolute;
+    top: 738px;
+    left: 383px;
+}
+.how-btn2{
+    position: absolute;
+    top: 738px;
+    left: 620px;
+    width: 210px;
+}
