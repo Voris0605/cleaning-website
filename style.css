@@ -526,3 +526,89 @@ a{
     height: 44px;
     background-color: rgb(51, 54, 238);
 }
+.footer{
+    height: 740px;
+}
+.f-row{
+    position: absolute;
+    top: 186px;
+    left: 0px;
+    display: flex;
+}
+.f1{
+    width: 350px;
+}
+.f2{
+    width: 354px;
+}
+.f3{
+    width: 204px;
+}
+.f4{
+    width: 312px;
+}
+.f-big{
+    width: 260px;
+    font-size: 26px;
+    font-weight: bold;
+}
+.f-text{
+    width: 260px;
+    margin-top: 14px;
+    font-size: 15px;
+    color: rgb(100, 105, 125);
+}
+.f-socials{
+    display: flex;
+    margin-top: 30px;
+}
+.f-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    margin-right: 14px;
+    border-radius: 6px;
+    background-color: rgb(228, 232, 247);
+    font-size: 14px;
+    color: rgb(170, 178, 225);
+}
+.f-title{
+    font-size: 16px;
+    font-weight: bold;
+}
+.f-line{
+    width: 250px;
+    margin-top: 14px;
+    font-size: 15px;
+    color: rgb(100, 105, 125);
+}
+.f-line.bold{
+    font-weight: bold;
+    color: rgb(24, 26, 58);
+}
+.f-phone{
+    margin-top: 14px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(51, 54, 238);
+}
+.f-btn{
+    width: 250px;
+    height: 70px;
+    margin-top: 22px;
+}
+.f-bottom{
+    position: absolute;
+    top: 590px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1220px;
+}
+.f-copy{
+    font-size: 14px;
+    color: rgb(100, 105, 125);
+}
