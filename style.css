@@ -325,3 +325,63 @@ a{
 .call-num.light{
     color: white;
 }
+.cover{
+    height: 1060px;
+}
+.line{
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 1220px;
+    height: 2px;
+    background-color: rgb(232, 234, 240);
+}
+.cover-img{
+    position: absolute;
+    top: 225px;
+    left: 0px;
+    width: 640px;
+    height: 676px;
+}
+.cover-title{
+    position: absolute;
+    top: 284px;
+    left: 720px;
+    width: 500px;
+    font-size: 42px;
+    font-weight: bold;
+}
+.cover-text{
+    position: absolute;
+    top: 420px;
+    left: 720px;
+    width: 480px;
+    font-size: 16px;
+    color: rgb(100, 105, 125);
+}
+.checks{
+    position: absolute;
+    top: 528px;
+    left: 720px;
+    display: flex;
+}
+.check-col{
+    width: 204px;
+}
+.check{
+    display: flex;
+    align-items: center;
+    margin-bottom: 26px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.check i{
+    margin-right: 14px;
+    font-size: 14px;
+    color: rgb(51, 54, 238);
+}
+.cover-btn{
+    position: absolute;
+    top: 771px;
+    left: 720px;
+}
