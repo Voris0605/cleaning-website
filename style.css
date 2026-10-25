@@ -102,3 +102,46 @@ a{
     height: 56px;
     font-size: 14px;
 }
+.hero{
+    height: 884px;
+}
+.hero-img{
+    position: absolute;
+    top: 0px;
+    left: 648px;
+    width: 680px;
+    height: 800px;
+}
+.hero-title{
+    position: absolute;
+    top: 232px;
+    left: 0px;
+    width: 520px;
+    font-size: 58px;
+    font-weight: bold;
+}
+.hero-text{
+    position: absolute;
+    top: 404px;
+    left: 0px;
+    width: 560px;
+    font-size: 16px;
+    color: rgb(100, 105, 125);
+}
+.hero-btn{
+    position: absolute;
+    top: 524px;
+    left: 0px;
+}
+.hc{
+    top: 524px;
+    left: 243px;
+}
+.hl{
+    top: 535px;
+    left: 345px;
+}
+.hn{
+    top: 562px;
+    left: 345px;
+}
